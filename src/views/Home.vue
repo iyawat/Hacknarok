@@ -592,7 +592,7 @@ export default {
           break
         case 'summon': 
           amt = 200
-          cmd = '@'+ cmd + ' ' + this.summonName + this.summonQnt
+          cmd = '@'+ cmd + ' ' + this.summonName + ' ' + this.summonQnt
           break
         case 'jail': 
           amt = 300
