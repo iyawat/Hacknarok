@@ -1,0 +1,42 @@
+{
+  "name": "vue-simplevoting",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "apexcharts": "^3.16.1",
+    "axios": "^0.19.2",
+    "bip39": "^3.0.2",
+    "buefy": "^0.8.9",
+    "core-js": "^3.4.4",
+    "crypto-js": "^4.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "^7.0.2",
+    "ethereumjs-wallet": "^0.6.3",
+    "qrcode.vue": "^1.7.0",
+    "safe-buffer": "^5.2.1",
+    "store": "^2.0.12",
+    "vue": "^2.6.10",
+    "vue-gtag": "^1.6.5",
+    "vue-qrcode-reader": "^2.3.0",
+    "vue-router": "^3.1.3",
+    "vuex": "^3.1.2",
+    "web3": "^1.2.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vconsole": "^1.0.1",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

@@ -1,0 +1,34 @@
+// kill player
+{
+    "command": "@nuke $player",
+    "issuer": "tester",
+    "account_id": "2000001"
+}
+
+// doom
+{
+    "command": "@doom",
+    "issuer": "tester",
+    "account_id": "2000001"
+}
+
+// add summon
+{
+    "command": "@monster baphomet 1",
+    "issuer": "tester",
+    "account_id": "2000001"
+}
+
+// jail
+{
+    "command": "@jail $player",
+    "issuer": "tester",
+    "account_id": "2000001"
+}
+
+// unjail
+{
+    "command": "@unjail $player",
+    "issuer": "tester",
+    "account_id": "2000001"
+}
